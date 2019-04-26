@@ -13,7 +13,7 @@ def hh():
     os.system("termux-open https://youtu.be/g05168s3tIw")
  else :
     print "error"
- time.sleep(10)
+ time.sleep(5)
  hh()
 
 hh()
