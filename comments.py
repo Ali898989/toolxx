@@ -3,7 +3,7 @@ import os
 import time
 def hh():
  e = str(random.randint(1,3))
-
+ print " [*]please wait... "
 
  if e in "1":
     os.system("termux-open https://youtu.be/dD8bjB8B0Jw")
