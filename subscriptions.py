@@ -19,8 +19,7 @@ def hh():
  elif e in "4":
 
   
-    os.system("termux-open https://www.youtube.com/watch?v=l48XRayuS70&feature=youtu.be&fbclid=IwAR0uNJQrVi_oMg3A-uNtMkPug-p2PNF9WoZ5ujm13YsIOE48OdfrpKbkWBU
-")
+    os.system("termux-open https://www.youtube.com/watch?v=l48XRayuS70&feature=youtu.be&fbclid=IwAR0uNJQrVi_oMg3A-uNtMkPug-p2PNF9WoZ5ujm13YsIOE48OdfrpKbkWBU")
      
  else :
     print "error"
